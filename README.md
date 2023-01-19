@@ -1,7 +1,7 @@
-# HW #1 – FOLDER STRUCTURE & TYPOGRAPHY
+FOLDER STRUCTURE & TYPOGRAPHY
 
-Homework #1 for Web Development by Estefania Aguilar.
-Theme: Article about a hydrating beverage
+Applying typographies to the project.
+Theme: Article about Qu3nch! Hydrating beverage
 
 ## Usage
 
